@@ -1,0 +1,8 @@
+.inner-background {
+    background-color: #010260;
+    width:100%;
+    height: 100%;
+    border: 4px solid white;
+    border-radius: 20px;
+    position: relative;
+}
